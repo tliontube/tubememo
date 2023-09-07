@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tubememo/static/css/main.32c1911d.css",
+    "main.js": "/tubememo/static/js/main.b703ded2.js",
+    "index.html": "/tubememo/index.html",
+    "main.32c1911d.css.map": "/tubememo/static/css/main.32c1911d.css.map",
+    "main.b703ded2.js.map": "/tubememo/static/js/main.b703ded2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32c1911d.css",
+    "static/js/main.b703ded2.js"
+  ]
+}
